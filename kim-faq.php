@@ -1,22 +1,16 @@
 <?php
-
 /**
- * The plugin bootstrap file
- *
- *
- * @link              https://github.com/kimo-works
- * @since             1.0.0
- * @package           kim_faq
- *
- * @wordpress-plugin
- * Plugin Name:       KIM FAQ 
+ * Plugin Name:       KIM FAQ
  * Plugin URI:        https://github.com/kimo-works/kim-faq/
  * Description:       Accordion And Collapse is the most easiest drag & drop accordion builder for WordPress. You can add multiple accordion and collapse with this.
- * Version:           1.0.0
+ * Version:           1.10.3
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
  * Author:            Karim Siam
  * Author URI:        https://github.com/kimo-works/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Update URI:        https://github.com/kimo-works/kim-faq/
  * Text Domain:       kim-faq
  * Domain Path:       /languages
  */
